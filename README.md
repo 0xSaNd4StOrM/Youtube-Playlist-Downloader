@@ -1,6 +1,7 @@
 # YouTube Playlist Downloader
 
 A simple Python application for downloading YouTube playlist videos with a user-friendly GUI. This application is powered by the `pytube` library and offers support for both 360p and 720p video resolutions.
+
 ![Application Screenshot](https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/source-screenshot.jpg)
 
 ## Features
