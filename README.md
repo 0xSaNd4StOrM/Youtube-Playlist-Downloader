@@ -20,10 +20,9 @@ A simple Python application for downloading YouTube playlist videos with a user-
 
 ## Screenshots
 
-![Application Screenshot]
-(https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/376552979_1634052483783937_7562061973384661819_n.jpg)
-(https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/376568027_1634052470450605_4632518534769484363_n.jpg)
-(https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/376568027_1634052470450605_4632518534769484363_n.jpg)
+![Application Screenshot](https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/376552979_1634052483783937_7562061973384661819_n.jpg)
+![Application Screenshot](https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/376568027_1634052470450605_4632518534769484363_n.jpg)
+![Application Screenshot](https://github.com/0xSaNd4StOrM/Youtube-Playlist-Downloader/blob/main/376568027_1634052470450605_4632518534769484363_n.jpg)
 ## Getting Started
 
 1. Clone this repository to your local machine.
